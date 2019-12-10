@@ -1,6 +1,5 @@
 /*
 ||  Name:          apply_plsql_lab5.sql
-||  Date:          11 Nov 2016
 ||  Purpose:       Complete 325 Chapter 6 lab.
 ||  Dependencies:  Run the Oracle Database 12c PL/SQL Programming setup programs.
 */
